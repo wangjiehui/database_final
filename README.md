@@ -452,3 +452,7 @@ describe("Author Entity Integration Tests", () => {
 });
 
 ```
+
+## Entity Relations diagram
+
+![Entity Relations diagram](./diagram.png "Entity Relations diagram")
